@@ -1,2 +1,0 @@
-# Haruko
-Javascript 
